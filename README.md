@@ -1,5 +1,7 @@
 # CAVEaT (Cloud Adversarial Vectors, Exploits, and Threats)
 
+> **Note:** This project is currently on hiatus. It may be rebooted in the future as CAVEaT 2.0.
+
 ## About the Project
 
 The CAVEaT (Cloud Adversarial Vectors, Exploits, and Threats) Working Group focuses on identifying, documenting, and mitigating cloud-specific security threats and attack vectors. Our mission is to create a comprehensive framework—similar to MITRE ATT&CK—but specifically tailored to cloud environments.
